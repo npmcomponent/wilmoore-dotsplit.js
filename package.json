@@ -1,8 +1,7 @@
 {
-  "name": "dotsplit.js",
-  "version": "0.6.0",
+  "name": "wilmoore-dotsplit.js",
   "description": "Transform dot (`.`) delimited strings to array of strings for Node.js and the browser.",
-  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "version": "0.6.0",
   "keywords": [
     "string",
     "array",
@@ -11,20 +10,5 @@
     "split",
     "dot"
   ],
-  "main": "./index",
-  "scripts": {
-    "test": "make test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wilmoore/dotsplit.js"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "browserify": "*",
-    "chai": "*"
-  },
-  "volo": {
-    "url": "https://raw.github.com/wilmoore/dotsplit.js/v{version}/dotsplit.js"
-  }
+  "dependencies": {}
 }
